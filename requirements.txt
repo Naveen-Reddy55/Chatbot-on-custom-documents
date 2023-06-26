@@ -1,0 +1,7 @@
+langchain
+openai
+numpy
+pandas
+chromadb
+os
+keyboard
